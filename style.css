@@ -1,0 +1,18 @@
+BODY{
+  background-image : url(back.png);
+  background-repeat : repeat-x;
+}
+H1{
+  border-bottom-width : 10px;
+  border-bottom-style : double;
+  border-bottom-color : #ff0066;
+}
+H2{
+  font-size : 180%;
+  color : #660099;
+}
+UL{
+  font-weight : bold;
+  line-height : 2;
+  background-color : #ffcccc;
+}
